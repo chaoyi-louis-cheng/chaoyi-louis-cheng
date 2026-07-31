@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>As a consultant, I've been asked countless times whether I can read or simplify code for clients! If I had a penny for every request... 🤔</p>
-<p>The best way to demonstrate my hands-on technical abilities is to share my code. I primarily write in Python or Java.</p>
+<p>As a consultant, I've been asked countless times whether I can read, simplify and explain code to clients! If I had a penny for every request... 🤔</p>
+<p>Sharing my code is the best way to demonstrate my hands-on technical abilities. The <b>most relevant repo</b> you should look at is my Anti-Money Laundering Solutions Portfolio: https://github.com/chaoyi-louis-cheng/aml001_complete_solution</p>
+<p>This contains a <b>complete Name Screening solution I hand-coded from scratch</b>, and includes the following modules: an ETL loader, World-Check list loader and name screener/string matcher.</p>
+<p>Currently, I'm investigating the use of vibecoding/prompt engineering to add more features.</p>
 
 <br>
 <p><b>What I'm Working On:</b></p>
 <p>I've spent the past decade in Solutions Consulting at both vendor and client-side, primarily in the Anti-Financial Crime space (AML/Fraud).</p>
-<p>Hence, I thought it'd be fun to (vibe) code some ETL/name screening modules using the World-Check sanctions list. 😄</p>
+<p>Hence, I thought it'd be fun to (vibe) code some ETL/name screening modules using the World-Check sanctions list.  😄 These can be run as backend batch processes or exposed as RESTful APIs.</p>
 <p>I'm also implementing some AI algorithms (e.g. APriori) for data mining/finding associations. This can be used to surface suspicious transactions in an AML context.</p>
 
 <br>
