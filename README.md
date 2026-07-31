@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <p>The following technical document summarizes the code and highlights key features. It's meant for technical reviewers/assessors: https://github.com/chaoyi-louis-cheng/chaoyi-louis-cheng/blob/master/Louis%20Cheng%20-%20AML%20Code%20Portfolio.pdf</p>
 
 <br>
+<p><b>Resume/CV:</b></p>
+<p>My full CV is available <a href="Louis_Cheng_CV.pdf" download>here</a> and on <a href="https://www.linkedin.com/in/louis-cheng/" target="_blank">LinkedIn</a>.</p>
+
+<br>
 <p><b>Key Technical Skills:</b></p>
 <p><i>Core Development:</i> Batch/Bash, Java & JavaScript (Spring, Hibernate, J2SE, J2EE, React, Node.js), Python (FastAPI, Pandas)</p>
 <p><i>Markup & Formatting:</i> XML, JSON, HTML/CSS, JSX, SOAP/WSDL, SAML</p>
