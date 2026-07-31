@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br>
 <p><b>Resume/CV:</b></p>
-<p>My full CV is available <a href="Louis_Cheng_CV.pdf" download>here</a> and on <a href="https://www.linkedin.com/in/louis-cheng/" target="_blank">LinkedIn</a>.</p>
+<p>My full CV is available <a href="Louis_Cheng_CV.pdf">here</a> (<a href="https://github.com/chaoyi-louis-cheng/chaoyi-louis-cheng/releases/download/001_initial_cv/Louis_Cheng_CV.pdf">download</a>) and on <a href="https://www.linkedin.com/in/louis-cheng/" target="_blank">LinkedIn</a>.</p>
 
 <br>
 <p><b>Key Technical Skills:</b></p>
