@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>I've spent the past decade in Solutions Consulting in the Anti-Financial Crime space (AML/Fraud). As a consultant, I'm frequently asked whether I can read, simplify and explain code to clients! If I had a penny for every such request... 🤔</p>
+<p>My other interest lies in ETL (data cleansing/validation), automation and data warehousing. AML deals with large amounts of customer and transaction data (with retail banking a core contributor), since we have to scan these for suspicious activity. AML projects typically involve ETL design considerations (e.g. how to quickly and efficiently ingest large amounts of data) and warehousing of the processed results.</p>
 <p>Sharing my code is the best way to demonstrate my hands-on technical abilities. The <b>most relevant repo</b> you should look at is my Anti-Money Laundering Solutions Portfolio: https://github.com/chaoyi-louis-cheng/aml001_complete_solution</p>
 <p>This contains a <b>complete Name Screening solution I hand-coded from scratch</b>, and includes the following modules: an ETL loader, World-Check list loader and name screener/string matcher. I'm currently using vibecoding/prompt engineering to add more features.</p>
 <p>The following technical document summarizes the code and highlights key features. It's meant for technical reviewers/assessors: https://github.com/chaoyi-louis-cheng/chaoyi-louis-cheng/releases/download/002_initial_technote/Louis.Cheng.-.AML.Code.Portfolio.pdf</p>
